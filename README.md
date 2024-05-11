@@ -1,4 +1,4 @@
-# Donor-Dynamics-Unveiling-Insights-for-Increased-Giving-Using-SQL
+# Donor Dynamics: Unveiling Insights for Increased Giving Using SQL
 As a Data Analyst for Education for All, I was tasked with presenting insights on donor behavior and donation rates to the Head of Fundraising. With an upcoming fundraising strategy meeting in two weeks, our team needed to develop data-driven strategies to increase donations for the following year.
 
 I analyzed the data from our last donation drive and identified the following key insights to inform our fundraising strategy:
